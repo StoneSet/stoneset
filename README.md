@@ -8,7 +8,7 @@ I’m a telecom engineer at Orange Business, still collaborating with [@lefuturi
 🎶 **Other Passions:**  
 I'm also passionate about acoustics and metrology, and I run a website called [dlr-audio.com](https://dlr-audio.com), where I share speaker/headphone tests, and technical insights related to HiFi audio.
 
--
+---
 
 💬 **Socials:** [_StoneSet on Twitter](https://twitter.com/_StoneSet)
 
