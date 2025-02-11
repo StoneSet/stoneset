@@ -1,10 +1,21 @@
-### Hi there 👋, I'm StoneSet !
+### Hi there 👋, I'm StoneSet!
 
-I'm a electronic and technology hobbyist, I like to spend my time on project like [RetroBox](https://retrobox.tech) or [Thingmill](https://thingmill.fr) (and even on stupid one lol). 
+I'm an electronics and technology hobbyist. I enjoy spending my time on projects like [DLRaudio](https://dlr-audio.com) and [Thingmill](https://thingmill.fr)—and sometimes on fun, quirky ones too! 😄
 
-- 🔭 I’m currently working at Thingmill as lead electronic designer for the RetroBox project with [@lefuturiste](https://github.com/lefuturiste/) { *Go check is Github, it's a really nice guy* }.
+---
 
-- 💬 [_StoneSet](https://twitter.com/_StoneSet)
-- 📫 [contact@stoneset.fr](mailto:contact@stoneset.fr)
+🔭 **Current Work:**  
+I’m a telecom engineer at Orange Business, still collaborating with [@lefuturiste](https://github.com/lefuturiste/) on projects at Thingmill.
 
-and voila ! 🍷
+🎶 **Other Passions:**  
+I'm also passionate about acoustics and metrology, and I run a website called [dlr-audio.com](https://dlr-audio.com), where I share speaker/headphone tests, and technical insights related to HiFi audio.
+
+---
+
+💬 **Socials:**  
+- [_StoneSet on Twitter](https://twitter.com/_StoneSet)
+
+📫 **Contact:**  
+- [contact@stoneset.fr](mailto:contact@stoneset.fr)
+
+...and voilà! 🍷
